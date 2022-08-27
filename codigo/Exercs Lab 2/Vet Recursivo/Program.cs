@@ -6,8 +6,17 @@ namespace Exerc_Recursivo
     {
         static void Main(string[] args)
         {
- 
-            int[] vet = { 2, 2, 3, 10, 20, 50 };
+            Console.WriteLine("Digite o tamanho que deverá ser criado o vetor");
+            int tamVet = int.Parse(Console.ReadLine());
+            int[] vet = new int [tamVet];
+
+            LeVetor(vet);
+
+            Console.WriteLine("O vetor escrito foi:");
+            EscreveVetor(vet);
+
+
+            Console.WriteLine("A soma dos elementos pares do Vetor é:");
             Console.WriteLine(CalculaVetPar(vet, vet.Length - 1));
  
         }
@@ -29,5 +38,26 @@ namespace Exerc_Recursivo
             }
             return CalculaVetPar(Vet,posicao - 1);
         }
+         static void LeVetor(int[] vet)
+        { 
+ 
+            for(int i = 0; i < vet.Length; i++)
+            {
+                Console.WriteLine("Digite um valor para ser alocado no vetor");
+                vet[i] = int.Parse(Console.ReadLine());
+            }
+            Console.WriteLine();
+        }
+        static void EscreveVetor(int[] vet)
+        {
+            for (int i = 0; i < vet.Length; i++)
+            {
+                Console.Write(vet[i] + "\t");
+            }
+            Console.WriteLine();
+        }
+
+
     }
 }
+

@@ -7,7 +7,9 @@ namespace Exerc_Vogal
         static void Main(string[] args)
         {
 
-            Console.WriteLine(RetornaSemVogal("Lucas"));
+            Console.WriteLine("Digite uma palavra em que se dejsa ver-la sem vogal");
+            string palavra =Console.ReadLine();
+            Console.WriteLine(RetornaSemVogal(palavra));
 
            
         }
