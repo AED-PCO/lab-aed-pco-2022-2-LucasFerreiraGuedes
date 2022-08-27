@@ -8,3 +8,6 @@ A soma de 30 com 25 é igual a 55
 O Quadrado de 55 é igual a 3025.
  
 Faça um programa que mostre os números de 1000 a 9999 que possuem essa característica.
+
+
+![Screenshot_1.png]
