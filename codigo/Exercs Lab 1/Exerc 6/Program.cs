@@ -16,9 +16,9 @@ namespace Exerc_VI
 
         }
 
-        static double CalculaElevacao( ref int b, ref int expoente)
+        static void CalculaElevacao( ref int b, ref int expoente)
         {
-            return Math.Pow(b, expoente);
+             b = Math.Pow(b, expoente);
         }
     }
 }
