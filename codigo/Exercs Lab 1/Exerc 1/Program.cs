@@ -26,9 +26,8 @@ namespace Exerc_1
             Console.WriteLine($"O  {numeroLido} é Quadrado esta certo");
             
           }
-          
+    
          }   
-         
            
         }
     }
