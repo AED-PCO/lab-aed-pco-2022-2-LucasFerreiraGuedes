@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\de0187078\\OneDrive - Direcional Engenharia S A\\Área de Trabalho\\AED Entrega\\lab-aed-pco-2022-2-LucasFerreiraGuedes\\codigo\\Exercs Lab 5\\Bubble Sort\\Bubble Sort.csproj": {}
+    "C:\\Users\\de0187078\\OneDrive - Direcional Engenharia S A\\Área de Trabalho\\teste\\teste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\de0187078\\OneDrive - Direcional Engenharia S A\\Área de Trabalho\\AED Entrega\\lab-aed-pco-2022-2-LucasFerreiraGuedes\\codigo\\Exercs Lab 5\\Bubble Sort\\Bubble Sort.csproj": {
+    "C:\\Users\\de0187078\\OneDrive - Direcional Engenharia S A\\Área de Trabalho\\teste\\teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\de0187078\\OneDrive - Direcional Engenharia S A\\Área de Trabalho\\AED Entrega\\lab-aed-pco-2022-2-LucasFerreiraGuedes\\codigo\\Exercs Lab 5\\Bubble Sort\\Bubble Sort.csproj",
-        "projectName": "Bubble Sort",
-        "projectPath": "C:\\Users\\de0187078\\OneDrive - Direcional Engenharia S A\\Área de Trabalho\\AED Entrega\\lab-aed-pco-2022-2-LucasFerreiraGuedes\\codigo\\Exercs Lab 5\\Bubble Sort\\Bubble Sort.csproj",
+        "projectUniqueName": "C:\\Users\\de0187078\\OneDrive - Direcional Engenharia S A\\Área de Trabalho\\teste\\teste.csproj",
+        "projectName": "teste",
+        "projectPath": "C:\\Users\\de0187078\\OneDrive - Direcional Engenharia S A\\Área de Trabalho\\teste\\teste.csproj",
         "packagesPath": "C:\\Users\\de0187078\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\de0187078\\OneDrive - Direcional Engenharia S A\\Área de Trabalho\\AED Entrega\\lab-aed-pco-2022-2-LucasFerreiraGuedes\\codigo\\Exercs Lab 5\\Bubble Sort\\obj\\",
+        "outputPath": "C:\\Users\\de0187078\\OneDrive - Direcional Engenharia S A\\Área de Trabalho\\teste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
