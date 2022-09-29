@@ -12,7 +12,7 @@ namespace InsertoSort
         }
         static int [] Insert(int[] vet)
         {
-            int menor = 0, aux = 0,posicaoMenor =0 ;
+            int menor = 0;
 
             for (int i = 1 ; i <= vet.Length-1; i++)
             {
