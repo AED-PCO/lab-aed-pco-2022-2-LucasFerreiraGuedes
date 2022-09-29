@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\de0187078\\OneDrive - Direcional Engenharia S A\\Área de Trabalho\\AED Entrega\\lab-aed-pco-2022-2-LucasFerreiraGuedes\\codigo\\Exercs Lab 5\\Exercs Lab 5.csproj": {}
+    "C:\\Users\\de0187078\\OneDrive - Direcional Engenharia S A\\Área de Trabalho\\AED Entrega\\lab-aed-pco-2022-2-LucasFerreiraGuedes\\codigo\\Exercs Lab 5\\Exercs Ordenação\\Exercs Ordenação.csproj": {}
   },
   "projects": {
-    "C:\\Users\\de0187078\\OneDrive - Direcional Engenharia S A\\Área de Trabalho\\AED Entrega\\lab-aed-pco-2022-2-LucasFerreiraGuedes\\codigo\\Exercs Lab 5\\Exercs Lab 5.csproj": {
+    "C:\\Users\\de0187078\\OneDrive - Direcional Engenharia S A\\Área de Trabalho\\AED Entrega\\lab-aed-pco-2022-2-LucasFerreiraGuedes\\codigo\\Exercs Lab 5\\Exercs Ordenação\\Exercs Ordenação.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\de0187078\\OneDrive - Direcional Engenharia S A\\Área de Trabalho\\AED Entrega\\lab-aed-pco-2022-2-LucasFerreiraGuedes\\codigo\\Exercs Lab 5\\Exercs Lab 5.csproj",
-        "projectName": "Exercs Lab 5",
-        "projectPath": "C:\\Users\\de0187078\\OneDrive - Direcional Engenharia S A\\Área de Trabalho\\AED Entrega\\lab-aed-pco-2022-2-LucasFerreiraGuedes\\codigo\\Exercs Lab 5\\Exercs Lab 5.csproj",
+        "projectUniqueName": "C:\\Users\\de0187078\\OneDrive - Direcional Engenharia S A\\Área de Trabalho\\AED Entrega\\lab-aed-pco-2022-2-LucasFerreiraGuedes\\codigo\\Exercs Lab 5\\Exercs Ordenação\\Exercs Ordenação.csproj",
+        "projectName": "Exercs Ordenação",
+        "projectPath": "C:\\Users\\de0187078\\OneDrive - Direcional Engenharia S A\\Área de Trabalho\\AED Entrega\\lab-aed-pco-2022-2-LucasFerreiraGuedes\\codigo\\Exercs Lab 5\\Exercs Ordenação\\Exercs Ordenação.csproj",
         "packagesPath": "C:\\Users\\de0187078\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\de0187078\\OneDrive - Direcional Engenharia S A\\Área de Trabalho\\AED Entrega\\lab-aed-pco-2022-2-LucasFerreiraGuedes\\codigo\\Exercs Lab 5\\obj\\",
+        "outputPath": "C:\\Users\\de0187078\\OneDrive - Direcional Engenharia S A\\Área de Trabalho\\AED Entrega\\lab-aed-pco-2022-2-LucasFerreiraGuedes\\codigo\\Exercs Lab 5\\Exercs Ordenação\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
