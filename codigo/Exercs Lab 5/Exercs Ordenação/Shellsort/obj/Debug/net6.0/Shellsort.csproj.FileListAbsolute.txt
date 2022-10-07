@@ -1,0 +1,15 @@
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Shellsort\Shellsort\Shellsort\obj\Debug\net6.0\Shellsort.csproj.AssemblyReference.cache
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Shellsort\Shellsort\Shellsort\obj\Debug\net6.0\Shellsort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Shellsort\Shellsort\Shellsort\obj\Debug\net6.0\Shellsort.AssemblyInfoInputs.cache
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Shellsort\Shellsort\Shellsort\obj\Debug\net6.0\Shellsort.AssemblyInfo.cs
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Shellsort\Shellsort\Shellsort\obj\Debug\net6.0\Shellsort.csproj.CoreCompileInputs.cache
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Shellsort\Shellsort\Shellsort\bin\Debug\net6.0\Shellsort.exe
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Shellsort\Shellsort\Shellsort\bin\Debug\net6.0\Shellsort.deps.json
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Shellsort\Shellsort\Shellsort\bin\Debug\net6.0\Shellsort.runtimeconfig.json
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Shellsort\Shellsort\Shellsort\bin\Debug\net6.0\Shellsort.dll
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Shellsort\Shellsort\Shellsort\bin\Debug\net6.0\Shellsort.pdb
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Shellsort\Shellsort\Shellsort\obj\Debug\net6.0\Shellsort.dll
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Shellsort\Shellsort\Shellsort\obj\Debug\net6.0\refint\Shellsort.dll
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Shellsort\Shellsort\Shellsort\obj\Debug\net6.0\Shellsort.pdb
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Shellsort\Shellsort\Shellsort\obj\Debug\net6.0\Shellsort.genruntimeconfig.cache
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Shellsort\Shellsort\Shellsort\obj\Debug\net6.0\ref\Shellsort.dll
