@@ -1,34 +1,76 @@
 ﻿using System;
-
-namespace Exerc_1
+ 
+ 
+namespace Bubblersort
 {
-    class Program
+    class program
     {
         static void Main(string[] args)
         {
-         for (int i = 1000; i < 9999; i++)
-         {
-            int numeroLido = i;
-
-            string primeiraMetade = numeroLido.ToString();
-          primeiraMetade = primeiraMetade.Substring(0,2);
-          
-
-          string segundaMetade = numeroLido.ToString();
-          segundaMetade = segundaMetade.Substring(2);
-          
-
-        
-          var soma = int.Parse(segundaMetade) + int.Parse(primeiraMetade);
-
-          if(Math.Pow(soma,2)== numeroLido)
-          {
-            Console.WriteLine($"O  {numeroLido} é Quadrado esta certo");
-            
-          }
-          
-         }   
+            int troca = 0, comparacao = 0;
+            int[] vet = new int[10];
+ 
+            preencheVetor(vet);
+            imprimeVetor(vet);
+            Console.WriteLine("Vetor ordenado: ");
+            Bubblersort(vet, ref troca, ref comparacao);
+            imprimeVetor(vet);
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine($"Número de comparações: {comparacao} ");
+            Console.WriteLine($"Número de trocas: {troca}");
            
+ 
         }
+ 
+        static int[] Bubblersort(int[] vet, ref int troca, ref int comparacao)
+        {
+            int aux = 0;
+            int referencia = vet.Length - 1;
+            for (int i = 0; i <= referencia; i++)
+            {
+                if (i == referencia)
+                {
+                    i = 0;
+                    referencia--;
+                    //verificação voltada para o final das comparações
+                }
+ 
+                if (vet[i] > vet[i + 1])
+                {
+                    aux = vet[i + 1];
+                    vet[i + 1] = vet[i];
+                    vet[i] = aux;
+                    troca++;
+                    //aqui eu to trocando o valor das variaveis com um aux;
+ 
+                }
+                if (referencia == 0)
+                {
+                    return vet;
+                }
+                comparacao += 3;
+            }
+            return vet;
+        }
+ 
+        static void imprimeVetor(int[] vet)
+        {
+            for (int i = 0; i < vet.Length; i++)
+            {
+                Console.Write("\t" + vet[i]);
+            }
+            Console.WriteLine();
+        }
+        static void preencheVetor(int[] vet)
+        {
+            Random randNum = new Random();
+            for (int i = 0; i < vet.Length; i++)
+            {
+                vet[i] = randNum.Next(10);
+            }
+        }
+ 
     }
 }
+ 
