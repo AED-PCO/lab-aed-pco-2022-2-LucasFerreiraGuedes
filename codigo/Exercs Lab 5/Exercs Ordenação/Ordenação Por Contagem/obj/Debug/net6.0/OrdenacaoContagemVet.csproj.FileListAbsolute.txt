@@ -1,0 +1,15 @@
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Ordenação Contagem\Contagem com Vetor\OrdenacaoContagemVet\OrdenacaoContagemVet\bin\Debug\net6.0\OrdenacaoContagemVet.exe
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Ordenação Contagem\Contagem com Vetor\OrdenacaoContagemVet\OrdenacaoContagemVet\bin\Debug\net6.0\OrdenacaoContagemVet.deps.json
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Ordenação Contagem\Contagem com Vetor\OrdenacaoContagemVet\OrdenacaoContagemVet\bin\Debug\net6.0\OrdenacaoContagemVet.runtimeconfig.json
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Ordenação Contagem\Contagem com Vetor\OrdenacaoContagemVet\OrdenacaoContagemVet\bin\Debug\net6.0\OrdenacaoContagemVet.dll
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Ordenação Contagem\Contagem com Vetor\OrdenacaoContagemVet\OrdenacaoContagemVet\bin\Debug\net6.0\OrdenacaoContagemVet.pdb
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Ordenação Contagem\Contagem com Vetor\OrdenacaoContagemVet\OrdenacaoContagemVet\obj\Debug\net6.0\OrdenacaoContagemVet.csproj.AssemblyReference.cache
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Ordenação Contagem\Contagem com Vetor\OrdenacaoContagemVet\OrdenacaoContagemVet\obj\Debug\net6.0\OrdenacaoContagemVet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Ordenação Contagem\Contagem com Vetor\OrdenacaoContagemVet\OrdenacaoContagemVet\obj\Debug\net6.0\OrdenacaoContagemVet.AssemblyInfoInputs.cache
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Ordenação Contagem\Contagem com Vetor\OrdenacaoContagemVet\OrdenacaoContagemVet\obj\Debug\net6.0\OrdenacaoContagemVet.AssemblyInfo.cs
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Ordenação Contagem\Contagem com Vetor\OrdenacaoContagemVet\OrdenacaoContagemVet\obj\Debug\net6.0\OrdenacaoContagemVet.csproj.CoreCompileInputs.cache
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Ordenação Contagem\Contagem com Vetor\OrdenacaoContagemVet\OrdenacaoContagemVet\obj\Debug\net6.0\OrdenacaoContagemVet.dll
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Ordenação Contagem\Contagem com Vetor\OrdenacaoContagemVet\OrdenacaoContagemVet\obj\Debug\net6.0\refint\OrdenacaoContagemVet.dll
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Ordenação Contagem\Contagem com Vetor\OrdenacaoContagemVet\OrdenacaoContagemVet\obj\Debug\net6.0\OrdenacaoContagemVet.pdb
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Ordenação Contagem\Contagem com Vetor\OrdenacaoContagemVet\OrdenacaoContagemVet\obj\Debug\net6.0\OrdenacaoContagemVet.genruntimeconfig.cache
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Exercs\Metódos de Ordenação\Ordenação Contagem\Contagem com Vetor\OrdenacaoContagemVet\OrdenacaoContagemVet\obj\Debug\net6.0\ref\OrdenacaoContagemVet.dll
