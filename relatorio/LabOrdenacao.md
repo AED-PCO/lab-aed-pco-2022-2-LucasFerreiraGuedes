@@ -15,3 +15,8 @@
 ## Shellsort
 
 ![Shellsort](/relatorio/Imagens/ExercsOrdenacao/Shellsort/Shellsort.png)
+
+## Ordenação Por Contagem
+
+![OrdenacaoContagem](/relatorio/Imagens/ExercsOrdenacao/OrdenacaoContagem/Ordenacao.png)
+
