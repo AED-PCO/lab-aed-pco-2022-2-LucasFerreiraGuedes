@@ -12,6 +12,8 @@ namespace ContagemVet
             int[] vetCont = new int[vetBase.Length];
             int menor = 10000;
             int maior = 0;
+            int trocas = 0;
+            int comparacao = 0;
 
             preencheVetor(vetBase);
             Console.WriteLine("Vetor Base Desordenado: ");
@@ -19,7 +21,7 @@ namespace ContagemVet
             Console.WriteLine();
 
             Console.WriteLine("Vetor com a Contagem de Repetição de Cada Termo");
-            vetCont= (Contagem(vetBase, vetCont, ref menor, ref maior));
+            vetCont= (Contagem(vetBase, vetCont, ref menor, ref maior,ref trocas,ref comparacao));
             imprimeVetor(vetCont);
             Console.WriteLine();
 
@@ -28,29 +30,35 @@ namespace ContagemVet
             imprimeVetor(vetTabela);
             imprimeVetor(OrdenaVetor(vetBase, vetTabela));
            
+           Console.WriteLine();
+           Console.WriteLine($"Número de Trocas: {trocas}, Número de Comparações: {comparacao}");
             
             
         }
 
 
-        static int[] Contagem(int[] vetBase, int[] vetCont, ref int menor, ref int maior)
+        static int[] Contagem(int[] vetBase, int[] vetCont, ref int menor, ref int maior, ref int trocas,ref int comparacao)
         {
             int repeticao = 0;
 
             for (int i = 0; i < vetBase.Length; i++)
             {
+                comparacao++;
 
                 if (vetBase[i] > maior)
                 {
                     maior = vetBase[i];
+                    trocas++;
                 }
                 else if (vetBase[i] < menor)
                 {
                     menor = vetBase[i];
+                    trocas++;
                 }
 
                 for (int j = 0; j < vetBase.Length ; j++)
                 {
+                    comparacao++;
 
                     if (vetBase[i] == vetBase[j])
                     {
