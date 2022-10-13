@@ -23,3 +23,31 @@
 ### Exerc 6
 
 ![Exerc1](/relatorio/Imagens/Lab1/Exerc6.png)
+
+
+# Gráficos Lab 2
+
+### Fatorial
+
+![Fatorial](/relatorio/Imagens/Lab2/Fatorial/Fatorial.png)
+
+### Frase
+
+![Frase](/relatorio/Imagens/Lab2/Frase/Frase.png)
+
+### FraseVogal
+
+![FraseVogal](/relatorio/Imagens/Lab2/FraseVogal/FraseVogal.png)
+
+### Multiplicacao
+
+![Multiplicacao](/relatorio/Imagens/Lab2/Multiplicacao/Multiplicacao.png)
+
+### Potencia 
+
+![Potencia](/relatorio/Imagens/Lab2/Potencia/Potencia.png)
+
+### SomaVetor
+
+![SomaVetor](/relatorio/Imagens/Lab2/SomaVetor/SomaVetor.png)
+
