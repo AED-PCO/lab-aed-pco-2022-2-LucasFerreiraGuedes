@@ -20,3 +20,13 @@
 
 ![OrdenacaoContagem](/relatorio/Imagens/ExercsOrdenacao/OrdenacaoContagem/Ordenacao.png)
 
+
+## Merge Sort
+
+![MergeSort](/relatorio/Imagens/ExercsOrdenacao/MergeSort/MergeSort.png)
+
+
+## Quick Sort
+
+![QuickSort](/relatorio/Imagens/ExercsOrdenacao/QuickSort/QuickSort.png)
+
