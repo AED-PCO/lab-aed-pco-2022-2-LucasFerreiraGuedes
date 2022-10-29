@@ -1,0 +1,15 @@
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Entrega\lab-aed-pco-2022-2-LucasFerreiraGuedes\codigo\Fila,Pilha e Lista Estáticas\Pilha\bin\Debug\net6.0\Pilha.exe
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Entrega\lab-aed-pco-2022-2-LucasFerreiraGuedes\codigo\Fila,Pilha e Lista Estáticas\Pilha\bin\Debug\net6.0\Pilha.deps.json
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Entrega\lab-aed-pco-2022-2-LucasFerreiraGuedes\codigo\Fila,Pilha e Lista Estáticas\Pilha\bin\Debug\net6.0\Pilha.runtimeconfig.json
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Entrega\lab-aed-pco-2022-2-LucasFerreiraGuedes\codigo\Fila,Pilha e Lista Estáticas\Pilha\bin\Debug\net6.0\Pilha.dll
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Entrega\lab-aed-pco-2022-2-LucasFerreiraGuedes\codigo\Fila,Pilha e Lista Estáticas\Pilha\bin\Debug\net6.0\Pilha.pdb
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Entrega\lab-aed-pco-2022-2-LucasFerreiraGuedes\codigo\Fila,Pilha e Lista Estáticas\Pilha\obj\Debug\net6.0\Pilha.csproj.AssemblyReference.cache
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Entrega\lab-aed-pco-2022-2-LucasFerreiraGuedes\codigo\Fila,Pilha e Lista Estáticas\Pilha\obj\Debug\net6.0\Pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Entrega\lab-aed-pco-2022-2-LucasFerreiraGuedes\codigo\Fila,Pilha e Lista Estáticas\Pilha\obj\Debug\net6.0\Pilha.AssemblyInfoInputs.cache
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Entrega\lab-aed-pco-2022-2-LucasFerreiraGuedes\codigo\Fila,Pilha e Lista Estáticas\Pilha\obj\Debug\net6.0\Pilha.AssemblyInfo.cs
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Entrega\lab-aed-pco-2022-2-LucasFerreiraGuedes\codigo\Fila,Pilha e Lista Estáticas\Pilha\obj\Debug\net6.0\Pilha.csproj.CoreCompileInputs.cache
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Entrega\lab-aed-pco-2022-2-LucasFerreiraGuedes\codigo\Fila,Pilha e Lista Estáticas\Pilha\obj\Debug\net6.0\Pilha.dll
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Entrega\lab-aed-pco-2022-2-LucasFerreiraGuedes\codigo\Fila,Pilha e Lista Estáticas\Pilha\obj\Debug\net6.0\refint\Pilha.dll
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Entrega\lab-aed-pco-2022-2-LucasFerreiraGuedes\codigo\Fila,Pilha e Lista Estáticas\Pilha\obj\Debug\net6.0\Pilha.pdb
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Entrega\lab-aed-pco-2022-2-LucasFerreiraGuedes\codigo\Fila,Pilha e Lista Estáticas\Pilha\obj\Debug\net6.0\Pilha.genruntimeconfig.cache
+C:\Users\alefa\OneDrive\Área de Trabalho\AED Entrega\lab-aed-pco-2022-2-LucasFerreiraGuedes\codigo\Fila,Pilha e Lista Estáticas\Pilha\obj\Debug\net6.0\ref\Pilha.dll
