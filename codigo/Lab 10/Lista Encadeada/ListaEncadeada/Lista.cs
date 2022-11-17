@@ -48,6 +48,7 @@ namespace ListaEncadeada
                 }
                 elemento.proximo = aux.proximo.proximo;
                 aux.proximo = elemento;
+                Contador++;
             }
             else
             {
@@ -66,6 +67,7 @@ namespace ListaEncadeada
             if (aux == elemento)
             {
                 aux = aux.proximo;
+                Contador--;
             }
             else
             {
@@ -75,6 +77,7 @@ namespace ListaEncadeada
                     if (aux.proximo == elemento)
                     {
                         aux.proximo = elemento.proximo;
+                        Contador--;
                         return;
                     }
                     else
