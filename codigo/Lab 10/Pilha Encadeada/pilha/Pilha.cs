@@ -10,8 +10,6 @@ namespace Pilha_Encadeada
         public Elemento primeiro = null;
         
 
-        
-
 
         public void Insere(Elemento elemento)
         {
@@ -46,9 +44,9 @@ namespace Pilha_Encadeada
            
            System.Console.WriteLine($"Item removido {primeiro}");
            
-           Elemento aux = Primeiro.proximo;
-           Primeiro.proximo = null;
-           Primeiro = aux;
+           Elemento aux = primeiro.proximo;
+           primeiro.proximo = null;
+           primeiro = aux;
           
        }
 
