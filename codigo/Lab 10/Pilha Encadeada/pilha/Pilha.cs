@@ -10,7 +10,7 @@ namespace Pilha_Encadeada
         public Elemento primeiro = null;
         
 
-        // coloquei a propriedade primeiro pra ter um controle na hora da remoção, vai ser meu ponto de parada.
+        
 
 
         public void Insere(Elemento elemento)
