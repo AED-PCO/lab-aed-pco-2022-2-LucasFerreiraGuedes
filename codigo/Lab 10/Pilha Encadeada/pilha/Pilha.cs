@@ -42,8 +42,14 @@ namespace Pilha_Encadeada
             System.Console.WriteLine("Não há itens para serem removidos !");
        }
        else{
-        System.Console.WriteLine($"Item removido {primeiro}");
-        primeiro = primeiro.proximo;
+           
+           
+           System.Console.WriteLine($"Item removido {primeiro}");
+           
+           Elemento aux = Primeiro.proximo;
+           Primeiro.proximo = null;
+           Primeiro = aux;
+          
        }
 
        }
