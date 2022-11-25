@@ -1,4 +1,4 @@
-﻿using System;
+﻿﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,8 +8,8 @@ namespace ListaEncadeada
 {
     internal class Elemento
     {
-        public Aluno aluno { get; set; }
 
+        public Aluno aluno { get; set; }
         public Elemento proximo = null;
 
 
@@ -17,6 +17,9 @@ namespace ListaEncadeada
         {
             this.aluno = aluno;
         }
+        public Elemento()
+        {
 
+        }
     }
 }

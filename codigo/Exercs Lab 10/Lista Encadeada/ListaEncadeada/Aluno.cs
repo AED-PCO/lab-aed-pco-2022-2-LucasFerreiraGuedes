@@ -22,7 +22,7 @@ namespace ListaEncadeada
         public Aluno(string nome, double nota)
         {
             Nome = nome;
-            Nota = nota;
+           
         }
     }
 }

@@ -1,4 +1,4 @@
-﻿using System;
+﻿﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,24 +19,29 @@ namespace ListaEncadeada
 
         }
 
-        public void InsercaoLinear(Elemento elemento)
+        public void InsercaoLinear(string nome)
         {
+            Elemento dado = new Elemento();
+            dado.aluno = new Aluno();
+            dado.aluno.Nome = nome;
+
+
             if (Primeiro == null)
             {
-                Primeiro = elemento;
-                Ultimo = elemento;
+                Primeiro = dado;
+                Ultimo = dado;
                 Contador++;
             }
             else
             {
-                Ultimo.proximo = elemento;
-                Ultimo = elemento;
+                Ultimo.proximo = dado;
+                Ultimo = dado;
                 Contador++;
             }
 
         }
 
-        public void InsercaoPos(Elemento elemento, int pos)
+      /*  public void InsercaoPos(Elemento elemento, int pos)
         {
             Elemento aux = Primeiro;
             if (pos <= Contador)
@@ -57,7 +62,7 @@ namespace ListaEncadeada
                 InsercaoLinear(elemento);  //Quando meu pos é maior do que a pos presente na lista, eu o insiro no final dela.
             }
 
-        }
+        } */
 
 
 
