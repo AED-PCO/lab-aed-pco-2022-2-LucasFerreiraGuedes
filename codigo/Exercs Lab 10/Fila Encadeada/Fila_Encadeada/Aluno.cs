@@ -1,4 +1,4 @@
-﻿using System;
+﻿﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,10 +17,10 @@ namespace Fila_Encadeada
         {
 
         }
-        public Aluno(string nome, int nota)
+        public Aluno(string nome)
         {
             Nome = nome;
-            Nota = nota;
+            
         }
     }
 }

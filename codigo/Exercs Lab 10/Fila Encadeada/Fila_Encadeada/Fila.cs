@@ -1,4 +1,4 @@
-﻿using System;
+﻿﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,22 +15,32 @@ namespace Fila_Encadeada
         {
 
         }
-        public void Inserir(Elemento elemento)
+        public void Inserir(string nome)
         {
+            Elemento dado = new Elemento();
+            dado.aluno = new Aluno();
+            dado.aluno.Nome = nome;
+
             if (Primeiro == null) // quer dizer que não existe nenhum elemento em minha fila
             {
-                Primeiro = elemento;
+                
+                Primeiro = dado;
+               
             }
+           
             else
             {
+
                 Elemento ponteiro = Primeiro;
                 while (ponteiro.proximo != null)
                 {
+                    Console.WriteLine(dado.proximo);
                     ponteiro = ponteiro.proximo;
 
                 }
-                ponteiro.proximo = elemento;
+                ponteiro.proximo = dado;
             }
+            Console.WriteLine(Primeiro.aluno.Nome);
         }
 
         public void Remover()
