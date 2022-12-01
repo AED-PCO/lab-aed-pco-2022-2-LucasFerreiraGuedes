@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ListaEncadeada
+namespace Lista_Encadeada
 {
     internal class Aluno
     {
 
-        public String Nome { get; set; }
-
+        public string Nome { get; set; }
         public double Nota { get; set; }
 
 
@@ -18,11 +17,10 @@ namespace ListaEncadeada
         {
 
         }
-
-        public Aluno(string nome, double nota)
+        public Aluno(string nome, int nota)
         {
             Nome = nome;
-           
+            Nota = nota;
         }
     }
 }

@@ -23,24 +23,24 @@ namespace Fila_Encadeada
 
             if (Primeiro == null) // quer dizer que não existe nenhum elemento em minha fila
             {
-                
+
                 Primeiro = dado;
-               
+
             }
-           
+
             else
             {
 
                 Elemento ponteiro = Primeiro;
                 while (ponteiro.proximo != null)
                 {
-                    Console.WriteLine(dado.proximo);
+                   // Console.WriteLine(dado.proximo);
                     ponteiro = ponteiro.proximo;
 
                 }
                 ponteiro.proximo = dado;
             }
-            Console.WriteLine(Primeiro.aluno.Nome);
+            //Console.WriteLine(Primeiro.aluno.Nome);
         }
 
         public void Remover()
@@ -53,6 +53,8 @@ namespace Fila_Encadeada
             }
             else
             {
+                Console.WriteLine();
+                Console.WriteLine("Item removido: " + Primeiro.aluno.Nome);
                 Elemento aux = Primeiro.proximo;
                 Primeiro.proximo = null;
                 Primeiro = aux;

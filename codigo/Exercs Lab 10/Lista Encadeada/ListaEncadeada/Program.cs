@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ListaEncadeada
+namespace Lista_Encadeada
 {
     class Program
     {
@@ -22,7 +22,9 @@ namespace ListaEncadeada
             }
 
 
-
+            Console.WriteLine("Digite um nome que se deseja retirar da lista: ");
+            string name = Console.ReadLine();
+            lista.RemoveElemento(name);
 
             /*  Aluno aluno1 = new Aluno("Lucas", 30);
               Aluno aluno2 = new Aluno("Thais", 30);
@@ -75,8 +77,8 @@ namespace ListaEncadeada
 
              lista.InsercaoLinear(elemento3);
             */
-             lista.ImprimeLista();
-             
+            lista.ImprimeLista();
+
 
         }
     }

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ListaEncadeada
+namespace Lista_Encadeada
 {
     internal class Lista
     {
@@ -41,36 +41,36 @@ namespace ListaEncadeada
 
         }
 
-      /*  public void InsercaoPos(Elemento elemento, int pos)
+        /*  public void InsercaoPos(Elemento elemento, int pos)
+          {
+              Elemento aux = Primeiro;
+              if (pos <= Contador)
+              {
+                  for (int i = 1; i < pos; i++)  // Aqui eu sobrescrevo um elemento de acordo com o pos passado, parando uma posição a frente e referenciando utilizando o .proximo
+                  {
+                      aux = aux.proximo;
+                      // Se eu quiser fazer o shift, eu coloco aux.proximo e i = 0
+                  }
+                  elemento.proximo = aux.proximo.proximo;
+                  aux.proximo.proximo = null;
+                  aux.proximo = elemento;
+                  Contador++;
+              }
+              else
+              {
+
+                  InsercaoLinear(elemento);  //Quando meu pos é maior do que a pos presente na lista, eu o insiro no final dela.
+              }
+
+          } */
+
+
+
+        public  void RemoveElemento(String nome)
         {
             Elemento aux = Primeiro;
-            if (pos <= Contador)
-            {
-                for (int i = 1; i < pos; i++)  // Aqui eu sobrescrevo um elemento de acordo com o pos passado, parando uma posição a frente e referenciando utilizando o .proximo
-                {
-                    aux = aux.proximo;
-                    // Se eu quiser fazer o shift, eu coloco aux.proximo e i = 0
-                }
-                elemento.proximo = aux.proximo.proximo;
-                aux.proximo.proximo = null;
-                aux.proximo = elemento;
-                Contador++;
-            }
-            else
-            {
 
-                InsercaoLinear(elemento);  //Quando meu pos é maior do que a pos presente na lista, eu o insiro no final dela.
-            }
-
-        } */
-
-
-
-        public void RemoveElemento(Elemento elemento)
-        {
-            Elemento aux = Primeiro;
-
-            if (Primeiro == elemento)
+            if (Primeiro.aluno.Nome == nome)
             {
                 aux = Primeiro.proximo;
                 Primeiro.proximo = null;
@@ -83,9 +83,12 @@ namespace ListaEncadeada
                 while (aux != null)
                 {
 
-                    if (aux.proximo == elemento)
+                    if (aux.proximo.aluno.Nome == nome)
                     {
-                        aux.proximo = elemento.proximo;
+                        
+                        aux.proximo = aux.proximo.proximo;
+                        aux.proximo.proximo = null;
+                        
                         Contador--;
                         return;
                     }
