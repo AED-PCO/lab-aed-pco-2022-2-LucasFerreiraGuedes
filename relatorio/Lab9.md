@@ -17,3 +17,11 @@
 
 
 ![Pilha](/relatorio/Imagens/Lab9/PilhaCopia/print2.png)
+
+
+
+
+## Fila Invertida
+
+
+![Fila](/relatorio/Imagens/Lab9/FilaInvertida/fila.png)
